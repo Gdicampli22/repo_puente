@@ -26,5 +26,5 @@ try:
         st.stop()
 
 except Exception as e:
-    st.error("⚠️ El sistema puente está en mantenimiento.")
+    st.error(f"⚠️ Error detallado para Gastón: {e}")
     st.stop()
