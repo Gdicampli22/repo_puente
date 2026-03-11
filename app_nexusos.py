@@ -2,8 +2,7 @@ import streamlit as st
 import requests
 
 # 1. Pegá acá el link RAW de tu portal_cliente.py en el repo privado
-URL_PRIVADA = "https://raw.githubusercontent.com/Gdicampli22/soporteerpia/refs/heads/main/app/portal_cliente.py?token=GHSAT0AAAAAADWY2ETHQUK7DD4XKXXQ5KXU2NLC7BQ"
-
+URL_PRIVADA = "https://raw.githubusercontent.com/Gdicampli22/toolskit-ai-consultant-copilot/refs/heads/main/app.py?token=GHSAT0AAAAAADWY2ETHIMTEB66W3ZPJZTEA2NRWEPQ"
 try:
     github_token = st.secrets["GITHUB_TOKEN"]
     headers = {
