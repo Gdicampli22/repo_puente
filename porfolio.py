@@ -222,7 +222,7 @@ st.markdown(f"""
 """, unsafe_allow_html=True)
 
 # 6. Sección de Proyectos
-st.markdown(f"<h3 style='text-align: center; color: {text_main}; margin-top: 2rem; margin-bottom: 3rem; font-size: 2rem; font-weight: 700;'>Ecosistema Nexus</h3>", unsafe_allow_html=True)
+st.markdown(f"<h3 style='text-align: center; color: {text_main}; margin-top: 2rem; margin-bottom: 3rem; font-size: 2rem; font-weight: 700;'>PORFOLIO - Ecosistema Nexus</h3>", unsafe_allow_html=True)
 
 col1, col2, col3 = st.columns(3)
 
@@ -240,7 +240,7 @@ with col2:
     st.markdown("""
 <a href="https://nexuscli.streamlit.app/" target="_blank" class="project-card">
 <div class="card-icon">⚙️</div>
-<div class="card-title">Nexus ERP</div>
+<div class="card-title">Soporte Nexus ERP</div>
 <div class="card-desc">Dashboard integral para la gestión de soporte funcional. Monitoreo de procesos, seguimiento de métricas y resolución ágil de incidencias."</div>
 <div class="card-button">Acceder al Panel →</div>
 </a>
