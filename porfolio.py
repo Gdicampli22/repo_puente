@@ -87,7 +87,7 @@ st.markdown(f"""
 
     /* Separador personalizado */
     .custom-divider {{
-        height: 1px;
+        height: 1px;Consultoria y Soporte Funcional ERP | Automatización & Data | SQL, Python, n8n | Integraciones y Optimización de Procesos | IA integrada a procesos
         background-color: {border_color};
         margin: 2rem 0;
         border: none;
@@ -215,7 +215,7 @@ with col_boton:
 st.markdown(f"""
 <div class="hero-container">
 <h1 class="hero-title">Gastón Di Campli</h1>
-<h2 class="hero-subtitle">Especialista Funcional de Soporte ERP</h2>
+<h2 class="hero-subtitle">Consultoria y Soporte Funcional ERP | Automatización & Data | SQL, Python, n8n | Integraciones y Optimización de Procesos | IA integrada a procesos</h2>
 <p class="hero-text">Optimizando procesos y resolviendo desafíos operativos mediante automatizaciones ágiles y soluciones impulsadas por Inteligencia Artificial. Explora el ecosistema Nexus a continuación.</p>
 </div>
 <hr class="custom-divider">
