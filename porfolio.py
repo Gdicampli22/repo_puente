@@ -238,7 +238,7 @@ with col1:
 
 with col2:
     st.markdown("""
-<a href="https://nexuscli.streamlit.app/" target="_blank" class="project-card">
+<a href="https://nexuserpdash.streamlit.app/" target="_blank" class="project-card">
 <div class="card-icon">⚙️</div>
 <div class="card-title">Soporte Nexus ERP</div>
 <div class="card-desc">Dashboard integral para la gestión de soporte funcional. Monitoreo de procesos, seguimiento de métricas y resolución ágil de incidencias."</div>
